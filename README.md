@@ -1,10 +1,6 @@
 # Unitree B2 - 3D Viewer
 
-<<<<<<< HEAD
 A modern 3D visualization application for the Unitree B2 robot using Three.js and URDF.
-=======
-A modern 3D visualization application for the Unitree B2 model using Three.js.
->>>>>>> fe5f753e1e728b31f3d0cbaf7c959a9681973345
 
 ## Features
 
