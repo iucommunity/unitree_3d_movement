@@ -1,0 +1,19 @@
+{
+  "name": "unitree-3d-movement",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "3D visualization of Unitree Go2 model using Three.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "urdf-loader": "^0.7.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+
